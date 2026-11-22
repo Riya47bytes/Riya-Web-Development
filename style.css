@@ -1,0 +1,78 @@
+/* General Styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-color: #8b0000;
+    color: white;
+    padding: 15px;
+}
+
+header h1 {
+    margin: 5px;
+}
+
+/* Navigation */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
+
+/* Home Section */
+#home {
+    background-color: #ffcc99;
+    padding: 70px 20px;
+}
+
+#home h2 {
+    font-size: 35px;
+}
+
+button {
+    background-color: #8b0000;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* Menu Section */
+#menu {
+    padding: 30px;
+}
+
+.food {
+    display: inline-block;
+    background-color: white;
+    width: 200px;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px gray;
+}
+
+/* About Section */
+#about {
+    background-color: #ffe0cc;
+    padding: 35px;
+}
+
+/* Contact Section */
+#contact {
+    padding: 35px;
+}
+
+/* Footer */
+footer {
+    background-color: #8b0000;
+    color: white;
+    padding: 15px;
+}
